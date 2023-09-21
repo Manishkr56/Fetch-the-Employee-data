@@ -1,0 +1,11 @@
+No.	ID	Name	Company Name	Positon	Salary
+1	12010	Ranjan Kumar	 Google	HR	33000
+2	12011	Ram roy	Wipro	Software developer	442000
+3	12012	Prince Raj	Josh Tech	fornt End develpoer	332000
+4	12013	kumar Raj	IBM	Software Eng.	442000
+5	12014	Krishna mohan	Mesho	Marketing Coordinator	423300
+6	12015	Radhe kumar	InFo tech	HR Coordinator	32040
+7	12016	Krishna mohan	Mesho	Marketing Coordinator	212000
+8	12017	Md Rahil	Infosys	Financial Manager	23000
+9	12018	mohan pandy	TCS	Product Designer	20000
+10	12019	jayant Yadav	Bajaj Finance	Project Manager	12000
